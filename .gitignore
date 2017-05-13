@@ -1,6 +1,8 @@
-scratch.py # Fiddling file
 
+# a file used for fiddling and testing.
+scratch.py
 
+# Ignore .idea, at least for now.
 .idea
 
 # Created by https://www.gitignore.io/api/python,pycharm
